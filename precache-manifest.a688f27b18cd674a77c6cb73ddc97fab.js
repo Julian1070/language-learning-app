@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b20435f2950477da530",
+    "revision": "bf5a8576131cd1f0edc1",
     "url": "/language-learning-app/static/css/main.d55a57a9.chunk.css"
   },
   {
-    "revision": "9b20435f2950477da530",
-    "url": "/language-learning-app/static/js/main.e3f767bf.chunk.js"
+    "revision": "bf5a8576131cd1f0edc1",
+    "url": "/language-learning-app/static/js/main.a5dd4747.chunk.js"
   },
   {
     "revision": "099936a847840a2cc244",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/language-learning-app/static/js/2.9f4fa2c7.chunk.js"
   },
   {
-    "revision": "18c19925b9a8af2aa3f5e0e2ca5f491c",
+    "revision": "c188d0275a5f6fe71b4d26a881626062",
     "url": "/language-learning-app/index.html"
   }
 ];
